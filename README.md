@@ -15,8 +15,8 @@ trouble)
 Vectorization: turning text into numbers 
 • BoW (Bag of Words), which simply counts how often each word appears in the text 
 • TF-IDF, which is an extension of BoW and provides numerical statistics that reflect the importance of a specific word. 
-4. Topic analysis: vectors into topics 
-LDA (probabilistic modeling: Each document is a mixture of topics), because it is well explained within the course, and NMF (matrix factorization: It factorizes TF-IDF into non-negative parts), because it decomposes the TF-IDF matrix and naturally supports the vectorization process. (5 topics each)
+Topic analysis: vectors into topics 
+LDA (probabilistic modeling: Each document is a mixture of topics), and NMF (matrix factorization: It factorizes TF-IDF into non-negative parts). (5 topics each)
 ## Libraries
 pandas, numpy, nltk, scikit-learn
 ## Dataset
