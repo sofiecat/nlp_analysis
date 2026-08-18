@@ -22,3 +22,6 @@ pandas, numpy, nltk, scikit-learn
 ## Dataset
 Consumer Financial Protection Bureau (CFPB) consumer complaints dataset  
 Source: [Kaggle](https://www.kaggle.com/datasets/cfpb/us-consumer-finance-complaints)
+## Academic Disclaimer
+This project was submitted as part of IU International University coursework. Please do not copy or submit this work for academic purposes.
+
